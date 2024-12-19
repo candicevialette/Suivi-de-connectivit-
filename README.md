@@ -56,15 +56,14 @@ Pour effectuer un suivi efficace de la connectivité, les outils couramment util
 |   └── background.png
 |
 ├── 📂 Réseaux/
-|   ├── Bloc1_sem1-atelier_04_Activite...
-|   └── Bloc1_sem1-atelier_04_Activite...
+|   ├── Bloc1_sem1-atelier_04_Activite-1-PT-ve_VIALETTE_Candice.pka
+|   └── Bloc1_sem1-atelier_04_Activite-1-PT-ve_VIALETTE_Candice - routagedynamique.pka
 |
 ├── 📂 Script/
 |   └── script1.bat
 |
 ├── 📂 Texte/
-|   └── organisme_enregistrement_inte...
-|
+|   └── organisme_enregistrement_internet.txt
 └── README.md
 ```
 
