@@ -43,8 +43,35 @@ Cet atelier est conçu pour vous aider à développer des compétences en diagno
 
 4. **Diagnostic des Tables de Routage** :
    - Examinez les tables de routage pour vous assurer que les routes sont correctement configurées.
+   
 
 ---
+
+```
+## 📂 **Structure du Dépôt**
+'''
+📂decouverte-packet-tracer/
+|
+├── 📂Documents/
+|   ├── Bloc1_sem1-atelier_04_suivi_de...
+|   └── Bloc1_sem1-atelier_04_suivi_de...
+|
+├── 📂Image/
+|   └── background.png
+|
+├── 📂Réseaux/
+|   ├── Bloc1_sem1-atelier_04_Activite...
+|   └── Bloc1_sem1-atelier_04_Activite...
+|
+├── 📂Script/
+|   └── script1.bat
+|
+├── 📂Texte/
+|   └── organisme_enregistrement_inte...
+|
+└── README.md
+```
+
 
 ## 💡 **Bonnes Pratiques pour le Suivi**
 
