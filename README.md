@@ -45,27 +45,30 @@ Pour effectuer un suivi efficace de la connectivité, les outils couramment util
 
 ## 📂 **Structure du Dépôt**
 '''
-📂decouverte-packet-tracer/
+```
+📂 decouverte-connectivite/
 |
-├── 📂Documents/
-|   ├── Bloc1_sem1-atelier_04_suivi_de...
-|   └── Bloc1_sem1-atelier_04_suivi_de...
+├── 📂 Documents/
+|   ├── Bloc1_sem1-atelier_04_suivi_de_connectivite_protocoles_VIALETTE_Candice.docx
+|   └── Bloc1_sem1-atelier_04_suivi_de_connectivite_protocoles_VIALETTE_Candice.pdf
 |
-├── 📂Image/
+├── 📂 Image/
 |   └── background.png
 |
-├── 📂Réseaux/
+├── 📂 Réseaux/
 |   ├── Bloc1_sem1-atelier_04_Activite...
 |   └── Bloc1_sem1-atelier_04_Activite...
 |
-├── 📂Script/
+├── 📂 Script/
 |   └── script1.bat
 |
-├── 📂Texte/
+├── 📂 Texte/
 |   └── organisme_enregistrement_inte...
 |
 └── README.md
 ```
+
+---
 ---
 ## 🚀 **Mise en Œuvre**
 
