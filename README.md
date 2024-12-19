@@ -122,3 +122,6 @@ Consultez le dossier `Documents/` pour des guides d'analyse détaillés.
 ## 🌍 **Licence**
 
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
+### 🗓 **Date de Création**
+
+Novembre 2024
