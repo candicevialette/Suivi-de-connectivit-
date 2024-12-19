@@ -1,0 +1,5 @@
+www.afrinic.net
+www.apnic.net
+www.ripe.net
+www.lacnic.net
+www.arin.net
